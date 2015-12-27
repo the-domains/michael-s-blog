@@ -1,7 +1,7 @@
 name: "Michael's Blog"
 favicon: null
 layout_spectrum: 0.94184
-typography_spectrum: 0.17193
+typography_spectrum: 0.6517
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#46b8fe'
     - '#5f7812'
     - '#153855'
-  brandStrength: 0.2760644636582583
+  brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
