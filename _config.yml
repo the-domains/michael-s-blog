@@ -1,7 +1,7 @@
 name: "Michael's Blog"
 favicon: null
-layout_spectrum: 0.6046516180504113
-typography_spectrum: 0.7422576679382473
+layout_spectrum: 0.94184
+typography_spectrum: 0.17193
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#f5f7f6'
+    - '#237ae4'
+    - '#46b8fe'
+    - '#5f7812'
+    - '#153855'
   brandStrength: 0.2760644636582583
-  lightness: 0.6881087892688811
-  saturation: 0.638610306661576
-  rhythmicContrast: 0.24891223688609898
+  lightness: 0.5
+  saturation: 0.1875
+  rhythmicContrast: 0.75
 purpose: []
