@@ -2,6 +2,7 @@ name: "Michael's Blog"
 favicon: null
 layout_spectrum: 0.94184
 typography_spectrum: 0.6517
+title: "Michael's Blog"
 cta:
   domain: null
   bucket: null
