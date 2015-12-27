@@ -1,0 +1,28 @@
+name: "Michael's Blog"
+favicon: null
+layout_spectrum: 0.6046516180504113
+typography_spectrum: 0.7422576679382473
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.2760644636582583
+  lightness: 0.6881087892688811
+  saturation: 0.638610306661576
+  rhythmicContrast: 0.24891223688609898
+purpose: []
